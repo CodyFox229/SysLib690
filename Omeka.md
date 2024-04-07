@@ -55,6 +55,12 @@ Restart the apache and mysql
 Had to re configure .install file to show error messages. Found out a missing letter in the username I gave MySQL didn't match what I had put into the db.ini file.
 Relied heavily on the wordpress installation steps.
 
+Had to install DOM extension as well. Threw an error after I fixed my user name problem. 
+```
+sudo apt-get install php-xml
+```
+
+
 
 
 
