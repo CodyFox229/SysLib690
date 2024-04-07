@@ -46,7 +46,7 @@ Configured and set permsissions
 ```
 sudo nano db.ini
 ```
-Changed ownership location to HTML
+Changed ownership 
 ```
 sudo chown -R www-data:www-data /var/www/html/omeka/files
 ```
